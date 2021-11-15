@@ -25,19 +25,19 @@ step 3: Interact with Your Deployed Smart Contract
 
 We first had to define the contract, please see the following for the variables defined in contract jointsavings
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![accounts](https://github.com/seanpatel19/Challenge-20/blob/5ed4b0063ddc4c4d09c06a6d302763aae16e2afe/Images/accounts.jpg)
 
 We then needed to create a withdrawl function, making sure that the addresses matched either accountOne or accountTwo, and there were enough funds for the transaction. 
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![require and if statements](https://github.com/seanpatel19/Challenge-20/blob/5ed4b0063ddc4c4d09c06a6d302763aae16e2afe/Images/require%20and%20if%20functions.jpg)
 
 We also added functionality to check the balance of the contract 
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![contract balance](https://github.com/seanpatel19/Challenge-20/blob/5ed4b0063ddc4c4d09c06a6d302763aae16e2afe/Images/contract%20balance.jpg)
 
 And to update the values of each account 
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![account update](https://github.com/seanpatel19/Challenge-20/blob/5ed4b0063ddc4c4d09c06a6d302763aae16e2afe/Images/account%20update.jpg)
 
 
 ## Testing the Smart Contract   
