@@ -44,31 +44,42 @@ And to update the values of each account
 
 Here is the contract as deployed 
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![deploy](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/deployment.jpg)
 
 The starting balance added of 1 ether in wei
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![first balance](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/first%20balance.jpg)
 
 
 The second balance after 10 ether was added in wei
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![account](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/second%20balance.jpg)
 
 
-The final balance after 5 ether was added equaling 16 in total 
+The final balance after 5 ether was added equaling 16 ETH in total 
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![account](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/final%20balance.jpg)
 
 The full first transaction where accountOne  took out 5 ether
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![account](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/user%201%205%20ether.jpg)
 
 
 The lastToWithdraw function showing the second transaction eith a withdrawl of 10 Ether 
 
-![account](https://github.com/seanpatel19/Challenge-19/blob/8ad3c96453d687a7f2252e33de8a133e56052dc0/Images/create%20account.png)
+![account](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/second%20balance.jpg)
 
+Another view showing more detail 
+
+
+
+## Bonus 
+
+The following are some screen shots to show that the error messages work, when the wrong account information  is provided and when there is not enough to complete the transaction
+
+![account](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/second%20balance.jpg)
+
+![account](https://github.com/seanpatel19/Challenge-20/blob/c6ce43df199f63c5a2532e1164bb0f15d3d90226/Execution_Results/second%20balance.jpg)
 
 
 
