@@ -104,7 +104,7 @@ It also uses the built in services of Remix IDE such as compile and deploy
 ## Usage
 
 To use the data simply clone the repository. All code written in Solidity. To deploy open up the .sol file in Remix IDE, or any other IDE that has similar functionality   
-
+---
 ```
 ---
 
